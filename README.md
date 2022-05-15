@@ -1,16 +1,7 @@
-### Hi there 👋
+###  Olá! Eu sou o Leandro Bernardino
 
-<!--
-**leobernardino/leobernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️   Atualmmente trabalhando como Analista de Monitoramento e Observabilidade.
+-  🎓   Formação em Gestão de Tecnologia da Informação.
+- 🤖  Estudando Qualidade de Softwares e testes Automatizados
+- 💻  Java Script e Flutter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working com monitoramento e observabilidade
-- 🌱 I’m currently learning Java Script, Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
