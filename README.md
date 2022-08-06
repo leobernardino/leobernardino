@@ -2,7 +2,7 @@
 
 - 🖥️    Analista de Monitoramento e Observabilidade.
 -  🎓   Formação em Gestão de Tecnologia da Informação.
-- 🤖  Estudando Java e qualidade de Softwares.
+- 🤖  Estudando Cloud AWS.
 
 <div align="center">
   <a href="https://github.com/leobernardino">
